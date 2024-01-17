@@ -1,0 +1,56 @@
+Name,Country,Age,Field,Background,Friend 1,Friend 2,Friend 3,Friend 4,Friend 5
+Alice,Kenya,24,Data Science,Applied Mathematics,Dorcas,Caleb,Brenda,Christabel,Victor
+Aloys,Cameroon,26,Data Science,Civil Engineering,Ibrahim,Hamed,Mikael,Roland,Leon
+Aneva,Cameroon,21,Fundamental Science,Applied mathematics,Meskerem,Richard,Kevine,Enock,Victor
+Ange,Cameroon,24,Data Science,Network & Telecom,Hadja,Rodrigue,Roland,Thierry,Kevine
+Ariane,Cameroon,27,Fundamental Science,Mathematics,Nathalie,Guerda,Patrick,Stebine,Rostand
+Blessing,Nigeria,25,Data Science,Mathematics,Emmanuel,Victor,Peace,Patrick,Patience
+Brenda,Cameroon,20,Data Science,Applied Mathematics,Dorcas,Alice,Christabel,Caleb,Delchere
+Caleb,Kenya,24,Fundamental Science,Mathematics,Meskerem,Alice,Dorcas,Christabel,Brenda
+Carelle,Cameroon,24,Climate Science,physics,Stebine,Christabel,Delchere,Phanie,Rostand
+Caroline,Ghana,23,Climate Science,Mathematics,Mavis,Richard,Peniel,Emmanuel,Elnathan
+Chivarol,Cameroon,22,Climate Science,Physics,Rodrigue,Phanie,Carelle,Nathalie,Aneva
+Claudelle ,Cameroon,23,Fundamental,physics,Hamed,Scheila,Stebine,Emmanuel,Wilfried
+Christabel,Cameroon,24,Climate Science,Mathematics and Stastistics,Alice,Dorcas,Caleb,Brenda,Meskerem
+Delchere,Cameroon,26,Fundamental Science,Physics,Brenda,Ariane,Wilfried,Patrick,Caleb
+Dorcas,Kenya,24,Climate Science,Statistics,Alice,Caleb,Christabel,Meskerem,Brenda
+Elnathan,Cameroon,21,Data Science,Computer Science,Mavis,Brenda,Nathalie,Uriel,Rodrigue
+Emmanuel,Nigeria,,Fundamental Science,Maths,Victor,Lydie,Blessing,Joseph,Peace
+Enock,Cameroon,25,Climate Science,Physics,Joseph,Hamed,Aneva,Rodrigue,Souleymane
+Fatema,Egypt,23,Data Science,Math & Computer,Zeinab,Emmanuel,Aneva,Victor,Lydie
+Guerda,Cameroon,24,Data Science,Mathematics,Ariane,Delchere,Blessing,Scott,Nathalie
+Hadja,Cameroon,25,Climate Science,Network & Telecom,Rodrigue,Leon,Peace,Guerda,Hamed
+Hamed,Cameroon,27,Climate Science,Physics,Rostand,Nathalie,Aloys,Nasser,Phalonne
+Joseph,Cameroon,21,Data Science,Mathematics,Enock,Meskerem,Alice,Brenda,Wilfried
+Josue,Tchad,27,Data Science,Computer Science,Thierry,Souleymane,Kevine,Patient,Lydie
+Kevine,Cameroon,22,Fundamental Science,Mathematics,Wilfried,Hadja,Mikael,Aneva,Leon
+Leon,Cameroon,25,Climate Science,Industrial Construction,Mikael,Roland,Phalonne,Roger,Stebine
+Lydie,Cameroon,25,Climate Science,Mathematical Physics,Emmanuel,Meskerem,Stebine,Uriel,Josue
+Mavis,Ghana,,Climate Science,Actuarial Science,Caroline,Elnathan,Victor,Caleb,Peniel
+Meskerem,Ethiopia,27,Fundamental Science,Applied Mathematics,Caleb,Roger,Dorcas,Alice,Christabel
+Mikael,Cameroon,25,Climate Science,Applied Mathematics,Roland,Souleymane,Kevine,Thierry,Leon
+Musab,Soudan,24,Climate Science,physics,Zeinab,Fatema,Ibrahim,Hamed,Nasser
+Nasser,Cameroon,25,Climate Science,Physics,Hamed,Carelle,Wilfried,Peace,Scheila
+Nathalie,Cameroon,26,Data Science,Mathematics,Rostand,Chivarol,Stebine,Hamed,Carelle
+Patience,Cameroon,25,Climate Science,Power Systems Engineering,Rodrigue,Brenda,Fatema,Victor,Delchere
+Patient,DRC,25,Fundamental Science,Mathematics,Souleymane,Elnathan,Josue,Rostand,Meskerem
+Patrick,Cameroon,22,Fundamental Science,Mathematics,Aneva,Meskerem,Delchere,Rostand,Zeinab
+Peace,Nigeria,24,Data Science,Statistics,Hadja,Aneva,Emmanuel,Scheila,Victor
+Peniel,Cameroon,23,Fundamental Science,Physics,Aneva,Delchere,Rostand,Phanie,Wilfried
+Phalonne,Cameroon,25,Data Science,Physics,Nathalie,Uriel,Rostand,Hamed,Phanie
+Phanie,Cameroon,23,Climate Science,Civil Engineering,Carelle,Phalonne,Chivarol,Delchere,Peniel
+Richard,Nigeria,30,Fundamental Science,Pure and Applied Math,Peace,Caroline,Ariane,Rodrigue,Aneva
+Roger,Cameroon,25,Fundamental Science,Algebra,Leon,Christabel,Meskerem,Roland,Ibrahim
+Roland,Cameroon,30,Data Science,Mathematics,Mikael,Leon,Ibrahim,Roger,Souleymane
+Rostand,Cameroon,28,Data Science,Physics,Nathalie,Joseph,Souleymane,Hamed,Phalonne
+Scheila,Cameroon,23,Climate Science,Applied Mathematics,Stebine,Phalonne,Phanie,Nathalie,Wilfried
+Scott,Cameroon,25,Data Science,Robotic Engineering,Uriel,Hamed,Emmanuel,Musab,Zeinab
+Souleymane,Burkinafasso,27,Fundamental Science,Physics,Patient,Phalonne,Rostand,Mikael,Leon
+Stebine,Cameroon,28,Climate Science,Physics,Scheila,Nathalie,Chivarol,Carelle,Lydie
+Thierry,Cameroon,30,Data Science,Network & Telecommunications,Josue,Patient,Mikael,Rostand,Ange
+Uriel,Cameroon,25,Data Science,Industrial Robotic,Scott,Nathalie,Phalonne,Hadja,Lydie
+Victor,Nigeria,23,Data Science,Mathematics,Emmanuel,Alice,Blessing,Aneva,Meskerem
+Wilfried,Cameroon,22,Fundamental Science,Mathematics,Meskerem,Joseph,Claudelle ,Delchere,Emmanuel
+Zeinab,Soudan,28,Fundamental Science,Mathematics,Elnathan,Musab,Emmanuel,Fatema,Phalonne
+Rodrigue,Cameroon,29,Fundamental Science,physics,Hamed,Roland,Ibrahim,Enock,Patience
+Ibrahim,Cameroon,,Climate Science,Physics,Hamed,Roland,Mikael,Leon,Roger
