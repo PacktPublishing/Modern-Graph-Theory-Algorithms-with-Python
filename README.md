@@ -33,6 +33,7 @@ print(np.mean(np.array(list(gs2.values()))))
 ```
 
 **Following is what you need for this book:**
+
 If you’re a researcher or industry professional analyzing data and are curious about network science approaches to data, this book is for you. To get the most out of the book, basic knowledge of Python, including pandas and NumPy, as well as some experience working with datasets is required. This book is also ideal for anyone interested in network science and learning how graph algorithms are used to solve science and engineering problems. R programmers may also find this book helpful as many algorithms also have R implementations.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
